@@ -1,0 +1,6 @@
+# Ignorar archivos de copias de seguridad
+*~
+*.bak
+
+# Ignorar archivos de texto
+*.txt
